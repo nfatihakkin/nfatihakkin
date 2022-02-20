@@ -1,13 +1,15 @@
 ### Hi there 👋, Nurettin Fatih
 #### Backend Developer and Cyber-Security Researcher
-I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli University.I am also a Backend Developer Intern at DataSurgery Software. I am developing my cybersecurity skills cause i like it.
+I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli University. I am also a Backend Developer Intern at DataSurgery Software. I am developing my cybersecurity skills cause i like it.
 
-Skills: ASP.Net Core / Python / C#
+Skills: ASP.Net Core / Python / C# / JavaScript
 
 - 🔭 I’m currently working on DataSurgery Software 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nfatihakkin)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nfatihakkin/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nfatihakkin/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nfatihakkin) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/nfatihakkin/) 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/nfatihakkin/)  
 
 <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
