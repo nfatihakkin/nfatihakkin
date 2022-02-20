@@ -3,8 +3,9 @@
 #### Backend Developer and Cyber-Security Researcher
 I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli University. I am also a Backend Developer Intern at DataSurgery Software. I am developing my cybersecurity skills cause i like it.
 
-- 🔭 I’m currently working on DataSurgery Software 
-- - My old projects
+- 🔭 I’m currently working on :
+
+- My old projects
 - Supplychain about automotive technology
 - My Cyber-security skills
 - My Asp.net Core MVC Book Project 
@@ -24,7 +25,7 @@ I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli Universit
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>
+<a href="https://www.linkedin.com/in/nfatihakkin/" target="blank"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="LinkedIn" width="21px"/></a>
 </p>
 <br /><br />
