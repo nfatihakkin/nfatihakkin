@@ -27,7 +27,7 @@ I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli Universit
 <a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>
 <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="LinkedIn" width="21px"/></a>
 </p>
-<br />
+<br /><br />
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nfatihakkin)  
