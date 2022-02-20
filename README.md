@@ -25,7 +25,8 @@ I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli Universit
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="LinkedIn" width="21px"/></a>
+<a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a>
+<a href="nfatihakkin@gmail.com"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/gmail.png" alt="Mail" width="21px"/></a>
 </p>
 <br /><br />
 
