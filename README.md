@@ -1,5 +1,5 @@
 [//]:[![MasterHead](https://avatars.githubusercontent.com/u/43918312?s=400&u=fa5b2a6b55e77cea7e4f7235bbfedb54eae55490&v=4)](https://github.com/nfatihakkin)
-### Hi there 👋, Nurettin Fatih
+### Hi 👋, I am Nurettin Fatih
 #### Backend Developer and Cyber-Security Researcher
 I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli University. I am also a Backend Developer Intern at DataSurgery Software. I am developing my cybersecurity skills cause i like it.
 
