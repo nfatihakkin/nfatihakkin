@@ -32,7 +32,7 @@ I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli Universit
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nfatihakkin)  
-[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=nfatihakkin)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag'nın Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=nfatihakkin&hide=contribs,prs)]
 
 ![Profile views](https://gpvc.arturio.dev/nfatihakkin)  
 <!--
