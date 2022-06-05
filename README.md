@@ -19,7 +19,7 @@ I am Nurettin Fatih and I am a Computer Engineering Student at Kocaeli Universit
 <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="Angular" width="40" target="_blank" height="40"/>
 <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
-<img src="https://user-images.githubusercontent.com/40461634/114240226-2f506580-9955-11eb-849b-e2a25117d681.png" alt="SQL" width="40" height="40"/> 
+<img src="https://cdn-icons-png.flaticon.com/512/3161/3161158.png" alt="SQL" width="40" height="40"/> 
 <br />
 
 
