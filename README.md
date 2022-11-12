@@ -4,11 +4,13 @@
 I am Nurettin Fatih and I am a Computer Engineer. I am working as a Software Engineer at Birinci Otomotiv. I am developing my cybersecurity skills cause i like it.
 
 🔭 I’m currently working on :
-- My old projects
+- ERP Systems
+- Flutter Projects
 - Supplychain about automotive technology
 - My Cyber-security skills
 - My Asp.net Core MVC Book Project 
-- ERP Systems
+- My old projects
+
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
