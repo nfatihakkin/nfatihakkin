@@ -17,19 +17,14 @@ My main areas of interest are:
 
 ### 📫 Contact & Links
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/nfatihakkin/)
-- 💻 [My Projects](https://github.com/nfatihakkin?tab=repositories)
-
+- <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a>
+- <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a>
+- <a href="mailto:nfatihakkin@gmail.com"><img align="left" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="21px" /></a>
 I don’t build hype. I build systems.
-<p>
-<a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a>
-<a href="mailto:nfatihakkin@gmail.com"><img align="left" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="21px" /></a>
-</p>
+
 <br /><br />
 
 
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=nfatihakkin)  
 ![Nurettin Fatih'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=nfatihakkin&hide=contribs,prs)
 
 ![Profile views](https://gpvc.arturio.dev/nfatihakkin)  
