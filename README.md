@@ -1,15 +1,18 @@
 [//]:[![MasterHead](https://avatars.githubusercontent.com/u/43918312?s=400&u=fa5b2a6b55e77cea7e4f7235bbfedb54eae55490&v=4)](https://github.com/nfatihakkin)
-### Hi 👋, I am Nurettin Fatih
-#### Backend Developer and Cyber-Security Researcher
-I am Nurettin Fatih and I am a Computer Engineer. I am working as a Software Engineer at Birinci Otomotiv. I am developing my cybersecurity skills cause i like it.
+## Hi, I'm Fatih 👋
 
-🔭 I’m currently working on :
-- ERP Systems
-- Flutter Projects
-- Supplychain about automotive technology
-- My Cyber-security skills
-- My Asp.net Core MVC Book Project 
-- My old projects
+I'm a software engineer focused on building scalable backend systems with real-world impact.  
+My main areas of interest are:
+
+- 🏭 ERP & Production Systems
+- 🧠 AI-supported scheduling & optimization
+- 🛠️ Backend architecture with .NET & C#
+- ⚙️ Clean code, maintainable systems, and long-term thinking
+
+### ⚙️ What I'm working on:
+🔹 Developing an AI-assisted Advanced Production Scheduling (APS) module  
+🔹 Architecting modular ERP components for industrial use cases  
+🔹 Building a long-term freelance and product development roadmap
 
 
 <h3 align="left">Languages and Tools:</h3>
