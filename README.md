@@ -17,8 +17,8 @@ My main areas of interest are:
 
 ### 📫 Contact & Links
 
-- <a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a>[LinkedIn](https://www.linkedin.com/in/nfatihakkin/)
-- <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a>[Instagram](https://www.instagram.com/nfatihakkin/)
+- <a href="https://www.linkedin.com/in/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/linkedin.png" alt="LinkedIn" width="21px"/></a> LinkedIn
+- <a href="https://www.instagram.com/nfatihakkin/"><img align="left" src="https://github.com/nfatihakkin/nfatihakkin/blob/main/images/instagram.png" alt="Instagram" width="21px"/></a> Instagram
 - <a href="mailto:nfatihakkin@gmail.com"><img align="left" src="https://img.shields.io/badge/gmail-%23DD0031.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="21px" /></a> I don’t build hype. I build systems.
 
 
@@ -26,19 +26,3 @@ My main areas of interest are:
 
 
 ![Nurettin Fatih'in Github İstatistikleri](https://github-readme-stats.vercel.app/api?username=nfatihakkin&hide=contribs,prs)
-
-![Profile views](https://gpvc.arturio.dev/nfatihakkin)  
-<!--
-**nfatihakkin/nfatihakkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
